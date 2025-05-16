@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "zustand": "^4.4.7"
+  },
+  "scripts": {
+    "dev": "vite"
   }
 }
